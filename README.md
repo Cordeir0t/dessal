@@ -1,6 +1,6 @@
 # dessal
 
-# 💧 Dessalinizador por Osmose Reversa com Monitoramento Inteligente
+#  Dessalinizador por Osmose Reversa com Monitoramento Inteligente
 
 Projeto de Trabalho de Conclusão de Curso (TCC) desenvolvido no curso técnico de Automação Industrial, com foco em controle, monitoramento e interface digital de um sistema de dessalinização por osmose reversa.
 
@@ -8,7 +8,7 @@ O sistema realiza o controle do processo de filtragem da água, coleta dados de 
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desenvolver um sistema automatizado de dessalinização por osmose reversa com:
 
@@ -21,7 +21,7 @@ Desenvolver um sistema automatizado de dessalinização por osmose reversa com:
 
 ---
 
-## ⚙️ Funcionamento do Sistema
+##  Funcionamento do Sistema
 
 O sistema executa o processo de osmose reversa:
 
@@ -36,7 +36,7 @@ O sistema executa o processo de osmose reversa:
 
 ---
 
-## 🧠 Arquitetura de Controle
+##  Arquitetura de Controle
 
 - Controlador principal: **ESP32 / ESP32-S3**
 - Lógica de controle embarcada
@@ -46,7 +46,7 @@ O sistema executa o processo de osmose reversa:
 
 ---
 
-## 🔌 Hardware Utilizado
+##  Hardware Utilizado
 
 ### Controlador
 - ESP32
@@ -69,7 +69,7 @@ O sistema executa o processo de osmose reversa:
 
 ---
 
-## 💻 Software Embarcado
+##  Software Embarcado
 
 Funcionalidades implementadas:
 
@@ -84,7 +84,7 @@ Funcionalidades implementadas:
 
 ---
 
-## 🌐 Interface Web
+##  Interface Web
 
 - Página de apresentação do sistema
 - Visualização de dados
@@ -99,7 +99,7 @@ Tecnologias:
 
 ---
 
-## 📡 Comunicação
+##  Comunicação
 
 - Envio de dados do ESP32 para interface web
 - Estrutura de dados em JSON
@@ -108,7 +108,7 @@ Tecnologias:
 
 ---
 
-## 🧮 Engenharia e Projeto
+##  Engenharia e Projeto
 
 Inclui:
 
@@ -121,7 +121,7 @@ Inclui:
 
 ---
 
-## 🧪 Testes Realizados
+##  Testes Realizados
 
 - Teste de leitura de pH
 - Teste de leitura de TDS
@@ -132,12 +132,12 @@ Inclui:
 
 ---
 
-## 📁 Estrutura do Repositório
+##  Estrutura do Repositório
 
 
 ---
 
-## 🚀 Possíveis Expansões
+##  Possíveis Expansões
 
 - Dashboard online em tempo real
 - Armazenamento em nuvem
@@ -148,15 +148,14 @@ Inclui:
 
 ---
 
-## 👩‍💻 Autora
+##  Autora
 
 Talita Cordeiro Teixeira  
 Técnico em Automação Industrial  
-Professora de Letramento Digital  
 Área de interesse: Sistemas Embarcados, Automação e Monitoramento Inteligente
 
 ---
 
-## 📌 Status do Projeto
+##  Status do Projeto
 
 Protótipo funcional — em evolução para melhorias de interface e monitoramento remoto.
